@@ -56,7 +56,7 @@ function App() {
               </div>
               <button
                 onClick={swap}
-                className="bg-gray-300 absolute p-2 rounded-lg     bg-blue-400"
+                className="absolute p-2 rounded-lg  bg-blue-400"
               >
                 SWAP
               </button>
